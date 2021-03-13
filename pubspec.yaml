@@ -4,14 +4,13 @@ version: 1.0.2
 homepage: https://github.com/ZaraclaJ/audio_recorder
 
 dependencies:
-  path: ^1.5.1
+  path: ^1.8.0
   flutter:
     sdk: flutter
-  file: ^5.0.4
-
+  file: ^6.1.0
 
 environment:
-  sdk: ">=2.0.0-dev.40.0.flutter-f981f09760 <3.0.0"
+  sdk: ">=2.10.0 <3.0.0"
 
 flutter:
   plugin:
